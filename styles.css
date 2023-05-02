@@ -364,7 +364,7 @@ a {
 
 .main-img-div {
   display: flex;
-  background-image: url(../images/Soul-Medicine.jpg);
+  background-image: url(images/Soul-Medicine.jpg);
   width: 100%;
   max-width: 100%;
   height: 600px;
